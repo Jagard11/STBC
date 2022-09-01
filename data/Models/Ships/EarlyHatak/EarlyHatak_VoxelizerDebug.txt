@@ -1,0 +1,328 @@
+3 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+3 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+3 double sided triangle(s) detected in unnamed geometry.
+3 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+3 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in unnamed geometry.
+29 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in unnamed geometry.
+63 double sided triangle(s) detected in 1_ringmat.
+31 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+5 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+24 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in unnamed geometry.
+17 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in unnamed geometry.
+12 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in unnamed geometry.
+16 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+25 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+5 double sided triangle(s) detected in 1_ringmat.
+21 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in unnamed geometry.
+10 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in unnamed geometry.
+16 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+5 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in unnamed geometry.
+9 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+28 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+26 double sided triangle(s) detected in 1_ringmat.
+26 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+21 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+21 double sided triangle(s) detected in 1_ringmat.
+23 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+21 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+24 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+25 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+28 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+29 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+21 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+28 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+24 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+23 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+23 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+23 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+24 double sided triangle(s) detected in 1_ringmat.
+25 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+26 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+26 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+25 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+26 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+21 double sided triangle(s) detected in 1_ringmat.
+30 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+28 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+22 double sided triangle(s) detected in 1_ringmat.
+19 double sided triangle(s) detected in 1_ringmat.
+11 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+16 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+1 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+18 double sided triangle(s) detected in 1_ringmat.
+10 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+5 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+32 double sided triangle(s) detected in 1_ringmat.
+24 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.
+8 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+14 double sided triangle(s) detected in 1_ringmat.
+3 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+63 double sided triangle(s) detected in 1_ringmat.
+29 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+12 double sided triangle(s) detected in 1_ringmat.
+9 double sided triangle(s) detected in 1_ringmat.
+4 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+7 double sided triangle(s) detected in 1_ringmat.
+6 double sided triangle(s) detected in 1_ringmat.
+27 double sided triangle(s) detected in 1_ringmat.
+26 double sided triangle(s) detected in 1_ringmat.
+20 double sided triangle(s) detected in 1_ringmat.
+15 double sided triangle(s) detected in 1_ringmat.
+17 double sided triangle(s) detected in 1_ringmat.
+13 double sided triangle(s) detected in 1_ringmat.
+2 double sided triangle(s) detected in 1_ringmat.

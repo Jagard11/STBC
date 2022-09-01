@@ -1,0 +1,8 @@
+62 double sided triangle(s) detected in EngineCyliders.
+80 double sided triangle(s) detected in unnamed geometry.
+28 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in CockpitFrame.
+70 double sided triangle(s) detected in unnamed geometry.
+104 double sided triangle(s) detected in DroneLaunchers.
+103 double sided triangle(s) detected in Drones.
+9 double sided triangle(s) detected in Base.

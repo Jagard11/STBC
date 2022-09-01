@@ -1,0 +1,56 @@
+10 double sided triangle(s) detected in WingDetails.
+4 double sided triangle(s) detected in Canons2.
+2 double sided triangle(s) detected in Canons2.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in AntenaClusters.
+2 double sided triangle(s) detected in AntenaClusters.
+12 double sided triangle(s) detected in AntenaClusters.
+4 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in WingDetails.
+3 double sided triangle(s) detected in WingDetails.
+1 double sided triangle(s) detected in WingDetails.
+16 double sided triangle(s) detected in WingDetails.
+2 double sided triangle(s) detected in unnamed geometry.
+24 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in WingDetails.
+2 double sided triangle(s) detected in WingDetails.
+2 double sided triangle(s) detected in WingDetails.
+2 double sided triangle(s) detected in WingDetails.
+10 double sided triangle(s) detected in WingDetails.
+3 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+8 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+4 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+6 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+1 double sided triangle(s) detected in SidePanels.
+4 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.
+2 double sided triangle(s) detected in SidePanels.

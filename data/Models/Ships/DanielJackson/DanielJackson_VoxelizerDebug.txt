@@ -1,0 +1,8 @@
+2 double sided triangle(s) detected in Regroup602.
+4 double sided triangle(s) detected in Regroup602.
+13 double sided triangle(s) detected in Regroup602.
+13 double sided triangle(s) detected in Regroup602.
+6 double sided triangle(s) detected in Regroup602.
+1 double sided triangle(s) detected in unnamed geometry.
+6 double sided triangle(s) detected in Regroup602.
+1 double sided triangle(s) detected in unnamed geometry.

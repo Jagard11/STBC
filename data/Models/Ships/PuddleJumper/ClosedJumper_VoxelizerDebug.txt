@@ -1,0 +1,4 @@
+37 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in CockpitFrame.
+9 double sided triangle(s) detected in Base.
+42 double sided triangle(s) detected in unnamed geometry.

@@ -1,0 +1,24 @@
+2 double sided triangle(s) detected in unnamed geometry.
+409 double sided triangle(s) detected in unnamed geometry.
+155 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in unnamed geometry.
+44 double sided triangle(s) detected in unnamed geometry.
+44 double sided triangle(s) detected in unnamed geometry.
+44 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in unnamed geometry.
+65 double sided triangle(s) detected in unnamed geometry.
+563 double sided triangle(s) detected in unnamed geometry.
+22 double sided triangle(s) detected in unnamed geometry.
+44 double sided triangle(s) detected in unnamed geometry.
+44 double sided triangle(s) detected in unnamed geometry.
+44 double sided triangle(s) detected in unnamed geometry.
+1 double sided triangle(s) detected in MainUpperHull.
+1 double sided triangle(s) detected in MainUpperHull.
+12 double sided triangle(s) detected in unnamed geometry.
+95 double sided triangle(s) detected in unnamed geometry.
+152 double sided triangle(s) detected in unnamed geometry.
+2 double sided triangle(s) detected in unnamed geometry.
+4 double sided triangle(s) detected in unnamed geometry.
+19 double sided triangle(s) detected in unnamed geometry.
+434 double sided triangle(s) detected in unnamed geometry.
+200 double sided triangle(s) detected in unnamed geometry.

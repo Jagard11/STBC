@@ -1,0 +1,1 @@
+10 double sided triangle(s) detected in Editable Mesh.
