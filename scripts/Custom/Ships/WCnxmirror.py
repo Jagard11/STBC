@@ -26,7 +26,7 @@ if Foundation.shipList._keyList.has_key(longName):
 
 
 def wcmirrorentIDSwap(self):
-       retval = {"Textures": [["idmapmirror_glow.tga", "data/Models/SharedTextures/WCnx01/wcmirrorentid_glow.tga"]]}
+       retval = {"Textures": [["idmapmirror_glow.tga", "Data/Models/SharedTextures/WCnx01/wcmirrorentid_glow.tga"]]}
        return retval
 
 
@@ -60,7 +60,7 @@ if Foundation.shipList._keyList.has_key(longName):
 
 
 def wcmirroravengerIDSwap(self):
-       retval = {"Textures": [["mirrorgrayid_glow.tga", "data/Models/SharedTextures/WCnx01/wcmirroravengerid_glow.tga"]]}
+       retval = {"Textures": [["mirrorgrayid_glow.tga", "Data/Models/SharedTextures/WCnx01/wcmirroravengerid_glow.tga"]]}
        return retval
 
 

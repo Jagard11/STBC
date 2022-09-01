@@ -1,0 +1,7 @@
+#This is the dump of the LogCreator: <Gravity Manager LogCreator_Lbz3yE6X1111>
+#This log file was created on: 11:6:31 of 16/December/2007, Sunday
+########################################
+## -------------------- ##
+####################
+#######>>>11:6:31 of 16/December/2007, Sunday
+#>>>Initialized GravityManager_6w1s8o8Y23Aa logger
