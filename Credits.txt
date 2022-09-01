@@ -1,0 +1,212 @@
+Filename:  Delta Quadrant Pack
+Version:   1.0
+Date:	 February 2012
+Author:  JL Studios
+E-mail:	 jlstudios@hotmail.co.uk
+Requirements	:
+- BC
+- BC 1.1 Patch - http://bridgecommander.filefront.com/file/Bridge_Commander_Patch;2374
+- Foundation - Get via BCUT - http://bcs-tng.com/forums/mods/BCUT_1.8.rar
+- NanoFX 2.0 Beta - http://bridgecommander.filefront.com/file/NanoFX;23469
+- Galaxy Charts 2.0 - http://bridgecommander.filefront.com/file/Galaxy_Charts;102501
+
+==========================================
+
+Description
+
+==========================================
+
+The Delta Quadrant Pack began in early 2008 and has finally been finished in early 2012. It contains 44 brand new ships and 20 new star systems :D  Most models are under 20k polies and most have 2048 textures, so low end machines might struggle. This fills a huge hole in different species, so have fun blowing them up ;)
+There is also 20 brand new star systems in the dqp which can be explored by finding them in the helm menu under set course, or if you have Galaxy Charts 2.0 simply go to Stellar Cartography and you can find them in the delta quadrant section.
+
+To access the graviton catapult, you need to go to the graviton catapult system, select the navpoint then once you arrive there, look in the helm menu and there should be in travel method. You can also access the quantum singularity this way to access the new fluidic space ;)
+
+Don't forget to select the mutators for the Delta Quadrant star systems.
+
+Any questions go to bc-central.com 
+
+Some people might experience problems with the Transwarp hub system, there is no current solution for this problem.
+==========================================
+
+TEXTURES
+
+==========================================
+
+Jb06
+
+Planet textures based off nasa images,
+Borg Textures thanks to Doug Drexler renders,
+==========================================
+
+Bigs thanks to the modellers
+
+Meshes
+==========================
+Lint/
+Kenneth Zaborny/Ed Giddings/Captain Russell
+==========================
+
+1  Krenim Timeship  		    
+2  SS Raven		   	   
+3  Maquis Raider	 	   
+4  Type 9			   
+5  Aeon			 	   
+6  Bioship
+7  Borg Cube			   
+8  Borg Sphere		   
+9  Borg Diamond		   
+10 Borg Tactical Cube	 
+
+==========================
+Limey 98
+==========================
+11 Dralian			   
+12 Bomar			   
+13 Borg Transwarp Hub		   
+14 Nygean Prison Transport  	   
+15 Repto Humanoid		   
+16 Vidiian			   
+17 Vaadwaur			   
+18 Dinaali Hospital Ship			   
+19 The Baxial			   
+20 Talaxian Fighter		   
+21 Kazon Fighter		   
+22 Rhode Island
+23 U.S.S. Equinox Damaged
+
+==========================
+Cordanilus
+==========================
+24 Kazon Predator		   
+25 Think Tank
+26 Borg Unicomplex	
+
+==========================
+Queball
+==========================  
+27 Kazon Raider 			   
+28 Zahl				   
+29 Mawasi			   
+30 Nihydron
+
+==========================
+c2x/Limey98
+==========================
+31 Suspiria Array		     
+32 Caretaker Array
+
+==========================
+Kophjaeger
+==========================
+33 Hirogen Drone			   	
+34 Devore Warship
+35 Hirogen Holoship
+36 Hirogen HoloStation
+36 Hirogen Comms Array			   
+37 Krenim Scout	
+
+Some textures made by aswell
+
+==========================
+Bankruptstudios
+==========================
+38 Krenim Warship
+
+==========================
+WileyCoyote
+==========================
+39 Void Ship
+
+==========================
+LC 
+========================== 
+40 U.S.S. Voyager		   
+41 YOH Voyager
+
+==========================
+shadowbuilder
+==========================  
+42 Hirogen Hunter
+
+========================== 
+Gtea		
+==========================   
+43 U.S.S. Dauntless
+
+========================== 
+MrJohn
+========================== 
+44 8472 Biodome	
+
+
+============================================
+
+TRAVEL TECHS Made By - USS Frontier
+
+Quantum singularity	   
+Catapult	
+
+CUSTOM TORPS Made By - USS Frontier,LJ adapted by Jb06, Graham Spencer   
+
+============================================
+
+SYSTEMS Made By - Jb06
+
+1 Borg Prime 			     
+2 Caretaker			   
+3 Demon Class			     
+4 Ice Planet			   
+5 Avery III			   
+6 Krenim 			   
+7 Malon				   
+8 Ocampa			   
+9 Sikaris			   
+10 Suspiria Array		   
+11 Talax			   
+12 Tarok			   
+13 Vaadwaur Homeworld 		   
+14 Water Planet			   
+15 Transwarp Hub		   
+16 The Void			   
+17 Unicomplex			   
+18 Fluidic Space		   
+19 Graviton Catapult 		   
+20 Veloce System
+
+============================================
+
+HARDPOINTS
+
+============================================
+
+Jb06/Tiqud
+
+============================================	
+
+TESTERS
+
+============================================
+
+Barihawk	   
+Billz
+Blackrook32
+Dalek
+deadthunder2_0
+FekLeyr Targ
+JamesTiberiusKirk
+Jb06
+Kirk
+leemason
+Lionus
+Nero
+Tally
+Tiqud
+sovereign001
+WileyCoyote 
+WindSong
+
+============================================
+
+Special Thanks to everyone that was involved in this long project especially all the main modellers, lint limey and Kophjaeger, sorry if I've missed anyone ;) Big thanks to Frontier and Sov for all the scripting, I wouldn't have been able to do half the stuff without his help. :D
+Also like to thank Tiqud for his brilliant skill of hardpointing :D He's got more patience than me :) I'd also like to thanks Cordanilus for creating the new planetary glows/speculars mod which allowed me to us 
+the idea for the dqp and also the new glow system for ships :D Without his curiosity this pack wouldn't look as near as good :D

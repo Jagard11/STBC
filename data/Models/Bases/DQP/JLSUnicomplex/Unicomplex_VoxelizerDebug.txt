@@ -1,0 +1,2 @@
+16 double sided triangle(s) detected in unnamed geometry.
+40 double sided triangle(s) detected in unnamed geometry.

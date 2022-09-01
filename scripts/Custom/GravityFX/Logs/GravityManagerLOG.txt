@@ -1,13 +1,13 @@
-#This is the dump of the LogCreator: <Gravity Manager LogCreator_hm0X0QpJns2i>
-#This log file was created on: 9:36:31.0 of 1/September/2022, Thursday
+#This is the dump of the LogCreator: <Gravity Manager LogCreator_ttVJ7TgA8l8s>
+#This log file was created on: 11:29:44.0 of 1/September/2022, Thursday
 ########################################
 ## -------------------- ##
 ####################
-#######>>>9:36:31.0 of 1/September/2022, Thursday
-#>>>Initialized GravityManager_S3od735WY25i logger
+#######>>>11:29:44.0 of 1/September/2022, Thursday
+#>>>Initialized GravityManager_ad8309sV7SD1 logger
 ## -------------------- ##
 ####################
-#######>>>9:36:54.402 of 1/September/2022, Thursday
+#######>>>11:29:59.211 of 1/September/2022, Thursday
 #>>>Refreshed Ship List: ['Player']
 #>>>Refreshed Ship List: ['Player']
 #>>>Refreshed Ship List: ['Player']
@@ -17,20 +17,99 @@
 #>>>Refreshed Ship List: ['Player']
 #>>>Refreshed Ship List: ['Player']
 #>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
-#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_rOb9jek85cWP>]
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_jBh87jE5w1V7>]
 #>>>Planets/Suns List: ['Belaruz 4']
 #>>>Refreshed Ship List: ['Player']
-#>>>Updated radius for grav well <Belaruz 4 GravityWell_rOb9jek85cWP>, radius is now 1545.25497888
+#>>>Updated radius for grav well <Belaruz 4 GravityWell_jBh87jE5w1V7>, radius is now 1730.22777779
 ## -------------------- ##
 ####################
-#######>>>9:37:37.425 of 1/September/2022, Thursday
+#######>>>11:31:27.559 of 1/September/2022, Thursday
 #>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
-#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_TWZOw0noL2v8>]
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_7U7wHoM8N13i>]
 #>>>Planets/Suns List: ['Belaruz 4']
-#>>>Refreshed Ship List: ['Player', 'Marauder-1', 'Marauder-2']
-#>>>Refreshed Ship List: ['Player', 'Marauder-1', 'Marauder-2']
-#>>>Refreshed Ship List: ['Player', 'Marauder-1', 'Marauder-2']
+#>>>Refreshed Ship List: ['Omega Class-2']
+#>>>Refreshed Ship List: ['Omega Class-2']
+#>>>Refreshed Ship List: ['Omega Class-2']
 ## -------------------- ##
 ####################
-#######>>>9:39:50.707 of 1/September/2022, Thursday
-#>>>Refreshed Ship List: ['Player', 'Marauder-2']
+#######>>>11:32:28.208 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Omega Class-2', 'Thunderbolt - 2']
+## -------------------- ##
+####################
+#######>>>11:33:36.527 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Omega Class-2', 'Thunderbolt - 2', 'Thunderbolt - 3']
+## -------------------- ##
+####################
+#######>>>11:33:44.383 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Omega Class-2', 'Thunderbolt - 2', 'Thunderbolt - 3', 'Thunderbolt - 4']
+## -------------------- ##
+####################
+#######>>>11:33:52.040 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Omega Class-2', 'Thunderbolt - 3', 'Thunderbolt - 4']
+## -------------------- ##
+####################
+#######>>>11:33:57.658 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Omega Class-2', 'Thunderbolt - 3']
+## -------------------- ##
+####################
+#######>>>11:33:57.774 of 1/September/2022, Thursday
+#>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_iyj2BSm655ir>]
+#>>>Planets/Suns List: ['Belaruz 4']
+#>>>Refreshed Ship List: ['Omega Class-2', 'Thunderbolt - 3']
+## -------------------- ##
+####################
+#######>>>11:34:0.323 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: []
+## -------------------- ##
+####################
+#######>>>11:34:17.523 of 1/September/2022, Thursday
+#>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_BLlWncqg4971>]
+#>>>Planets/Suns List: ['Belaruz 4']
+#>>>Refreshed Ship List: ['Omega Class-2']
+#>>>Refreshed Ship List: ['Omega Class-2']
+#>>>Refreshed Ship List: ['Omega Class-2']
+## -------------------- ##
+####################
+#######>>>11:36:6.132 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: []
+## -------------------- ##
+####################
+#######>>>11:36:13.209 of 1/September/2022, Thursday
+#>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_6TEfF5M44nO4>]
+#>>>Planets/Suns List: ['Belaruz 4']
+#>>>Refreshed Ship List: []
+## -------------------- ##
+####################
+#######>>>11:36:33.596 of 1/September/2022, Thursday
+#>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_CsV36r4EPG12>]
+#>>>Planets/Suns List: ['Belaruz 4']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-1', 'Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+## -------------------- ##
+####################
+#######>>>11:37:11.166 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Nova Class-2', 'Nova Class-3', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+#>>>Refreshed Ship List: ['Nova Class-2', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7', 'Nova Class-8']
+## -------------------- ##
+####################
+#######>>>11:37:12.495 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Nova Class-2', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6', 'Nova Class-7']
+## -------------------- ##
+####################
+#######>>>11:37:12.846 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Nova Class-2', 'Nova Class-4', 'Nova Class-5', 'Nova Class-6']
+## -------------------- ##
+####################
+#######>>>11:37:42.727 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Nova Class-2', 'Nova Class-5', 'Nova Class-6']

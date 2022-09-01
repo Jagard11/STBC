@@ -1,4 +1,3 @@
-from bcdebug import debug
 ##########################################################################################################################
 #        Race Plugin script   (created by the Race Plugin Creator Tool (v1.0.0.0)
 ###########
@@ -29,7 +28,7 @@ sLookInMenu = "Borg Ships"
 ########
 ## list of the ship script name  of ships of this race, to be added manually (that is, besides looking in the above 
 ## mentioned menu)
-lDefaultShips = ["BorgDiamond", "LowCube", "sphere", "CUBE", "TacticalCube", "TNGBorgCube", "Borg", "BorgCube", "Cube", "VoyagerCube", ]
+lDefaultShips = ["BorgDiamond", "LowCube", "sphere", "CUBE", "TacticalCube", "TNGBorgCube", "Borg", "BorgCube", "Cube", "VoyagerCube, JLSBorgCube", "JLSBorgDiamond", "JLSBorgSphere", "JLSBorgTacticalCube", "TNGBorgCube", ]
 
 ########
 ## dictionary showing the escorts of a ship class  (for a example, check the Dominion race script)
