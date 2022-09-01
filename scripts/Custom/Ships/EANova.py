@@ -41,6 +41,9 @@ credits = {
 Foundation.ShipDef.EANova = Foundation.FedShipDef(abbrev, species, { 'name': longName, 'iconName': iconName, 'shipFile': shipFile, "SubMenu": SubMenu, "SubSubMenu": SubSubMenu })
 
 Foundation.ShipDef.EANova.dTechs = {
+	'Fed Ablative Armor': {
+		"Plates": ["Aft Armor", "Forward Armor", "Neck Armor 1", "Neck Armor 2", "Neck Armor 3"]
+		}
 	'Defense Grid': 130
 }
 #                                                                                     #
