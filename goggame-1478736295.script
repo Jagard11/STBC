@@ -1,0 +1,116 @@
+{
+    "actions": [
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "deleteSubkeys": true,
+                    "root": "HKLM",
+                    "subkey": "Software\\Activision\\Star Trek: Bridge Commander"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey1"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKLM",
+                    "subkey": "Software\\Activision\\Star Trek: Bridge Commander\\v1.1",
+                    "valueData": "{app}\\",
+                    "valueName": "CD",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey3"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKLM",
+                    "subkey": "Software\\Activision\\Star Trek: Bridge Commander\\v1.1",
+                    "valueData": "{app}",
+                    "valueName": "INSTALLPATH",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey4"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKLM",
+                    "subkey": "Software\\Activision\\Star Trek: Bridge Commander\\v1.1",
+                    "valueData": "{app}\\stbc.exe",
+                    "valueName": "INSTALLEXEPATH",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey5"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKLM",
+                    "subkey": "Software\\Activision\\Star Trek: Bridge Commander\\v1.1",
+                    "valueData": "1.1",
+                    "valueName": "DisplayValue",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey5"
+        },
+        {
+            "install": {
+                "action": "setRegistry",
+                "arguments": {
+                    "root": "HKLM",
+                    "subkey": "Software\\Activision\\Star Trek: Bridge Commander\\v1.1",
+                    "valueData": "Activision Publishing, Inc.",
+                    "valueName": "Publisher",
+                    "valueType": "string"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "registryKey6"
+        },
+        {
+            "install": {
+                "action": "Execute",
+                "arguments": {
+                    "conditions": [
+                        "onlyOnce"
+                    ],
+                    "executable": "{supportDir}/add/gameux.cmd",
+                    "runAsAdmin": true,
+                    "workingDir": "{supportDir}/add"
+                }
+            },
+            "languages": [
+                "*"
+            ],
+            "name": "regUX"
+        }
+    ],
+    "productId": "1478736295"
+}

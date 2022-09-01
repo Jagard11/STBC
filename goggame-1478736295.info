@@ -1,0 +1,33 @@
+{
+    "buildId": "52866855046080171",
+    "clientId": "52857915029312566",
+    "gameId": "1478736295",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Star Trek\u2122: Bridge Commander",
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "*"
+            ],
+            "name": "Star Trek\u2122: Bridge Commander",
+            "path": "stbc.exe",
+            "type": "FileTask"
+        },
+        {
+            "category": "document",
+            "languages": [
+                "*"
+            ],
+            "link": "http://www.gog.com/support/star_trek_bridge_commander",
+            "name": "Support",
+            "type": "URLTask"
+        }
+    ],
+    "rootGameId": "1478736295",
+    "version": 1
+}
