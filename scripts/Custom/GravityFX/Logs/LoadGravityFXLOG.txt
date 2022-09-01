@@ -1,0 +1,7 @@
+#This is the dump of the LogCreator: <LoadGravityFX Logger LogCreator_0etBO905WQK1>
+#This log file was created on: 9:36:31.0 of 1/September/2022, Thursday
+########################################
+## -------------------- ##
+####################
+#######>>>9:36:31.0 of 1/September/2022, Thursday
+#>>>Initialized LoadGravityFX logger

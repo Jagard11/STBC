@@ -1,0 +1,8 @@
+#This is the dump of the LogCreator: <Astrometrics Logger LogCreator_cxxbaeuIXcER>
+#This log file was created on: 9:36:54.402 of 1/September/2022, Thursday
+########################################
+## -------------------- ##
+####################
+#######>>>9:36:54.402 of 1/September/2022, Thursday
+#>>>Initialized Astrometrics logger
+#>>>Created Astro GUI

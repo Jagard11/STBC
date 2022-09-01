@@ -1,7 +1,36 @@
-#This is the dump of the LogCreator: <Gravity Manager LogCreator_Lbz3yE6X1111>
-#This log file was created on: 11:6:31 of 16/December/2007, Sunday
+#This is the dump of the LogCreator: <Gravity Manager LogCreator_hm0X0QpJns2i>
+#This log file was created on: 9:36:31.0 of 1/September/2022, Thursday
 ########################################
 ## -------------------- ##
 ####################
-#######>>>11:6:31 of 16/December/2007, Sunday
-#>>>Initialized GravityManager_6w1s8o8Y23Aa logger
+#######>>>9:36:31.0 of 1/September/2022, Thursday
+#>>>Initialized GravityManager_S3od735WY25i logger
+## -------------------- ##
+####################
+#######>>>9:36:54.402 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Refreshed Ship List: ['Player']
+#>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_rOb9jek85cWP>]
+#>>>Planets/Suns List: ['Belaruz 4']
+#>>>Refreshed Ship List: ['Player']
+#>>>Updated radius for grav well <Belaruz 4 GravityWell_rOb9jek85cWP>, radius is now 1545.25497888
+## -------------------- ##
+####################
+#######>>>9:37:37.425 of 1/September/2022, Thursday
+#>>>Creating Grav Wells - Set: Systems.Belaruz.Belaruz4
+#>>>Creating Grav Wells: [<Belaruz 4 GravityWell_TWZOw0noL2v8>]
+#>>>Planets/Suns List: ['Belaruz 4']
+#>>>Refreshed Ship List: ['Player', 'Marauder-1', 'Marauder-2']
+#>>>Refreshed Ship List: ['Player', 'Marauder-1', 'Marauder-2']
+#>>>Refreshed Ship List: ['Player', 'Marauder-1', 'Marauder-2']
+## -------------------- ##
+####################
+#######>>>9:39:50.707 of 1/September/2022, Thursday
+#>>>Refreshed Ship List: ['Player', 'Marauder-2']

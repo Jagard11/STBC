@@ -1,0 +1,8 @@
+#This is the dump of the LogCreator: <Grav Sensors Logger LogCreator_otzY55E5dJv1>
+#This log file was created on: 9:36:54.402 of 1/September/2022, Thursday
+########################################
+## -------------------- ##
+####################
+#######>>>9:36:54.402 of 1/September/2022, Thursday
+#>>>Initialized Grav Sensors logger
+#>>>Created GSO GUI
