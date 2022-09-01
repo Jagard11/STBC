@@ -1,0 +1,5 @@
+1 double sided triangle(s) detected in BorgMachines.
+3 double sided triangle(s) detected in BorgMachines.
+1 double sided triangle(s) detected in BorgMachines.
+2 double sided triangle(s) detected in Object08:10.
+1 double sided triangle(s) detected in BorgMachines.

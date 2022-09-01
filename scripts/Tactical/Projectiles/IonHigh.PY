@@ -1,0 +1,46 @@
+import App
+
+def Create(pTorp):
+
+	kOuterShellColor = App.TGColorA()
+	kOuterShellColor.SetRGBA(0.0, 0.5, 1.0, 1.0)	
+	kOuterCoreColor = App.TGColorA()
+	kOuterCoreColor.SetRGBA(0.001, 0.5, 1.0, 1.0)
+
+	pTorp.CreateDisruptorModel(kOuterShellColor,kOuterCoreColor, 16.0, 0.22) 	
+	pTorp.SetDamage( GetDamage() )
+	pTorp.SetDamageRadiusFactor(0.01)
+	pTorp.SetGuidanceLifetime( GetGuidanceLifetime() )
+	pTorp.SetMaxAngularAccel( GetMaxAngularAccel() )
+	pTorp.SetLifetime( GetLifetime() )
+
+	# Multiplayer specific stuff.  Please, if you create a new torp
+	# type. modify the SpeciesToTorp.py file to add the new type.
+	import Multiplayer.SpeciesToTorp
+	pTorp.SetNetType (Multiplayer.SpeciesToTorp.DISRUPTOR)
+
+	return(0)
+
+def GetLaunchSpeed():
+	return(150.0)
+
+def GetLaunchSound():
+	return("IonHigh")
+
+def GetPowerCost():
+	return(5.0)
+
+def GetName():
+	return("IonHigh")
+
+def GetDamage():
+	return 500.0
+
+def GetGuidanceLifetime():
+	return 8.0
+
+def GetMaxAngularAccel():
+	return 100.00
+
+def GetLifetime():
+	return 8.0

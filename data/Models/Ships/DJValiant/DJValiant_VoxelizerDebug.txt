@@ -1,0 +1,4 @@
+6 double sided triangle(s) detected in hull2:1.
+6 double sided triangle(s) detected in hull2:1.
+4 double sided triangle(s) detected in hull2:1.
+4 double sided triangle(s) detected in hull2:1.
