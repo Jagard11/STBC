@@ -1,0 +1,23 @@
+//=====================================================
+Current Time: Thu Sep 01 18:43:02 2022
+Exception code: C0000005 ACCESS_VIOLATION
+Fault address:  007DC6B3 01:003DB6B3 Z:\home\justin\Desktop\STBC\stbc.exe
+
+Registers:
+EAX:0032FBB0
+EBX:07DA547C
+ECX:00000000
+EDX:00000000
+ESI:00000000
+EDI:08498874
+CS:EIP:0023:007DC6B3
+SS:ESP:002B:0032F95C  EBP:00000000
+DS:002B  ES:002B  FS:006B  GS:0063
+Flags:00210246
+
+Application Timestamp: Tue Apr 09 15:14:56 2002
+Doing stack walk
+
+Call stack:
+Address   Frame
+
