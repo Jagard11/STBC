@@ -1,3 +1,5 @@
 *.pyc
 *vox.nif
 *vox.NIF
+*VoxelizerDebug.txt
+*LOG.txt
