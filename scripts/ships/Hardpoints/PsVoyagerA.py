@@ -447,7 +447,7 @@ PHSRSaucerDorsalPort.SetTaperMaxLength(30.000000)
 PHSRSaucerDorsalPort.SetLengthTextureTilePerUnit(0.050000)
 PHSRSaucerDorsalPort.SetPerimeterTile(1.000000)
 PHSRSaucerDorsalPort.SetTextureSpeed(2.000000)
-PHSRSaucerDorsalPort.SetTextureName("data/Textures/Tactical/P$YCH0s_Fed_DS9_Phaser.tga")
+PHSRSaucerDorsalPort.SetTextureName("data/textures/tactical/P$YCH0s_Fed_DS9_Phaser.tga")
 App.g_kModelPropertyManager.RegisterLocalTemplate(PHSRSaucerDorsalPort)
 #################################################
 PHSRSaucerDorsalStarboard = App.PhaserProperty_Create("PHSR Saucer Dorsal Starboard")
