@@ -3,3 +3,10 @@
 *vox.NIF
 *VoxelizerDebug.txt
 *LOG.txt
+scripts/Custom/GravityFX/Logs/SystemMapLOG.txt
+scripts/Custom/GravityFX/Logs/LoadGravityFXLOG.txt
+scripts/Custom/GravityFX/Logs/AstrometricsLOG.txt
+scripts/Custom/GravityFX/Logs/GravGeneratorLOG.txt
+scripts/Custom/GravityFX/Logs/GravityManagerLOG.txt
+scripts/Custom/GravityFX/Logs/GravityManagerLOG[2].txt
+scripts/Custom/GravityFX/Logs/GravSensorsLOG.txt
